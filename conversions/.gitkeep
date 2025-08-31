@@ -1,0 +1,3 @@
+# This file ensures the conversions/ folder is tracked by Git
+# Extracted markdown files will be saved here
+# The folder structure will be preserved when cloning, but content will be ignored

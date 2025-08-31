@@ -1,0 +1,3 @@
+# This file ensures the pdfs/ folder is tracked by Git
+# Place your PDF files in this folder
+# The folder structure will be preserved when cloning, but content will be ignored

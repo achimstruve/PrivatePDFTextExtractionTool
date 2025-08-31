@@ -161,9 +161,11 @@ cython_debug/
 # VS Code
 .vscode/
 
-# Project specific
-pdfs/
-conversions/
+# Project specific - Ignore all content in these folders
+pdfs/*
+!pdfs/.gitkeep
+conversions/*
+!conversions/.gitkeep
 
 # uv
 .uv/
